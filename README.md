@@ -31,7 +31,7 @@ Included a variety of chart types to convey different analytical angles:
 - **Maps** (if applicable) to present geographic relationships visually
 
 - 
-![Top Genres Bubble chart ](screenshots/Top Genres.png)
+![Top Genres Bubble chart](screenshots/Top_Genres.png)
 
 ---
 
