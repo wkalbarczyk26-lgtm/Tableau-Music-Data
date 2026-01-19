@@ -30,6 +30,9 @@ Included a variety of chart types to convey different analytical angles:
 - **Pie charts** to visualise proportions of a whole
 - **Maps** (if applicable) to present geographic relationships visually
 
+- 
+![Top Genres Bubble chart ](screenshots/Top Genres.png)
+
 ---
 
 ## 🧠 Data Storytelling
